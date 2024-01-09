@@ -1,0 +1,1 @@
+取消汉化，删除resrouces、script文件夹即可
